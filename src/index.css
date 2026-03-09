@@ -7,8 +7,8 @@
   font-style: normal;
   line-height: 1.5;
   scroll-behavior: smooth;
-  color-scheme: light;
-  color: #2F3E22; /* very dark sage / charcoal */
+  color-scheme: dark;
+  color: #F5ECCE; /* Beige letters */
   background-color: var(--backgroundColor);
 
   font-synthesis: none;
@@ -18,8 +18,8 @@
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  --accentColor: #7A9B76; /* Sage Green */
-  --backgroundColor: #F5F5DC; /* Beige */
+  --accentColor: #F5ECCE; /* Beige accents */
+  --backgroundColor: #7A9B76; /* Sage Green */
   --vh: 100vh;
   --vh: 100svh;
 }
@@ -66,7 +66,7 @@ main {
 body {
   margin: 0;
   height: auto;
-  background-color: #F5ECCE; /* Slightly darker beige */
+  background-color: #7A9B76; /* Sage Green */
   flex-grow: 1;
   --cWidth: calc(100% - 30px);
   --cMaxWidth: 1920px;

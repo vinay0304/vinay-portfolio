@@ -255,7 +255,7 @@ h2.landing-info-h2 {
   z-index: 3;
   background-image: linear-gradient(0deg,
       var(--backgroundColor) 40%,
-      rgba(245, 245, 220, 0) 110%);
+      rgba(122, 155, 118, 0) 110%);
   top: 0;
   left: 0;
 }
